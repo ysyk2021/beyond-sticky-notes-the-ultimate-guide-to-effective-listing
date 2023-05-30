@@ -14,4 +14,4 @@ Whether you're a student, a professional, or simply someone looking to get more 
 
 With "Beyond Sticky Notes," you'll be equipped with the knowledge and skills you need to take your task management to the next level. So, whether you're tackling a busy workday or planning your next big project, you can move forward with clarity, confidence, and focus. Let's get started!
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
