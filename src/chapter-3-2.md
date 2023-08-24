@@ -1,5 +1,3 @@
-Choosing the right format for your task or project
-=============================================================================================
 
 Choosing the right list format is key to effective listing, as different tasks and projects may require different formats to be most useful. In this chapter, we will explore how to choose the right format for your specific task or project.
 

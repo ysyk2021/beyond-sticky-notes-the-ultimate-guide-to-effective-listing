@@ -1,5 +1,3 @@
-Categorizing and Grouping Items on Your List
-==========================================================================================
 
 Lists are great for keeping track of multiple tasks or ideas, but if they become too long and disorganized, they can quickly become overwhelming and ineffective. In this chapter, we'll explore effective techniques for organizing your lists by categorizing and grouping items.
 

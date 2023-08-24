@@ -1,5 +1,3 @@
-Developing Self-awareness as a List-maker
-=========================================================================================
 
 In this chapter, we will explore the basics of listing and how developing self-awareness can make you a more effective list-maker. Understanding the fundamentals of listing is essential to effectively manage your tasks and achieve your goals.
 

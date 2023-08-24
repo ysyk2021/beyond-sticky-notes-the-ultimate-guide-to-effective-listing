@@ -1,5 +1,3 @@
-Chapter 2: Choosing the Right List Format
-=========================================
 
 In this chapter, we will explore how to choose the right list format for your task or project. Choosing the right list format is essential to ensure that you can effectively manage your tasks and achieve your goals.
 

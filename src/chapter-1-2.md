@@ -1,5 +1,3 @@
-What is Effective Listing?
-========================================
 
 In this book, we will explore the concept of effective listing and how it can help you manage your tasks and achieve your goals. Effective listing involves creating well-organized lists that prioritize tasks, set deadlines, and allow for flexibility. By breaking down tasks into smaller, more manageable steps, we can stay organized and focused on completing individual tasks and achieving larger goals.
 

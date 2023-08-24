@@ -1,5 +1,3 @@
-Recognizing the Different Types of Listing Formats
-=============================================================================================
 
 In this chapter, we will explore the different types of listing formats available for managing tasks and projects.
 

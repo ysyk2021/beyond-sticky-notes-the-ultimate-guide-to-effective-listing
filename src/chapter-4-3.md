@@ -1,5 +1,3 @@
-Identifying Dependencies and Relationships between Tasks
-======================================================================================================
 
 In this chapter, we will explore how identifying dependencies and relationships between tasks can help you organize your lists more effectively. By understanding how tasks are related to each other, you can prioritize them more efficiently and avoid potential roadblocks.
 

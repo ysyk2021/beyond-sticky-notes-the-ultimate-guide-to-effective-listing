@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the concept of effective listing and how it can help you manage your tasks and achieve your goals. We have covered the basics of listing theory, identified the characteristics of a well-organized list, explored different types of list formats, and provided tips for developing self-awareness as a list-maker.
 

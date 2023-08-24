@@ -1,5 +1,3 @@
-Incorporating flexibility into your listing process
-==============================================================================================
 
 When it comes to effective listing, choosing the right list format is crucial. In this chapter, we will explore different list formats and how to incorporate flexibility into your listing process.
 

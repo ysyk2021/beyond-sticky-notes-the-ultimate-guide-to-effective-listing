@@ -1,5 +1,3 @@
-Identifying Potential Collaborators and Networks
-==================================================================================
 
 Collaboration is an essential part of many work environments. By working with others, you can leverage their strengths and expertise to achieve better results. In this chapter, we will explore strategies for identifying potential collaborators and networks using collaborative listing.
 

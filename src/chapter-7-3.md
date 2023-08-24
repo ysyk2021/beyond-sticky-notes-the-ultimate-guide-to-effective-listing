@@ -1,5 +1,3 @@
-Managing Procrastination and Distraction
-=================================================================================
 
 In this chapter, we will explore some common challenges that can arise when it comes to effective listing, namely procrastination and distraction. We will provide strategies for managing these challenges and staying on track.
 

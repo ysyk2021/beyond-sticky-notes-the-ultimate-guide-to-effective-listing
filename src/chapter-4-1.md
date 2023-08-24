@@ -1,5 +1,3 @@
-Techniques for organizing lists based on priority and urgency
-===========================================================================================================
 
 Effective organization is key to making the most of your lists. In this chapter, we will explore techniques for organizing your lists based on priority and urgency.
 

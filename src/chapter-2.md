@@ -1,5 +1,3 @@
-Chapter 1: Understanding the Basics of Listing
-==============================================
 
 In this chapter, we will explore the basics of listing and how it can help you effectively manage your tasks and achieve your goals.
 

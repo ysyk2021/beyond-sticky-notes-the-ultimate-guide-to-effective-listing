@@ -1,5 +1,3 @@
-Overview of Listing Theory
-==========================================================================
 
 Listing is a simple yet powerful tool for staying organized, focused, and productive. While it may seem straightforward, there is a theory behind effective listing that can help you make the most of this tool.
 

@@ -1,5 +1,3 @@
-Techniques for effective collaboration and networking
-=======================================================================================
 
 Collaborative listing involves working with others to create lists that help you achieve your goals. In this chapter, we will explore techniques for effective collaboration and networking when it comes to listing.
 

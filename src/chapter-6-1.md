@@ -1,5 +1,3 @@
-The Benefits of Collaborative Listing
-=======================================================================
 
 In this chapter, we will explore the benefits of collaborative listing. Collaborative listing involves working with others to create and manage lists, which can be a powerful tool for achieving shared goals.
 

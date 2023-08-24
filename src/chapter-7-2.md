@@ -1,5 +1,3 @@
-Coping with Information Overload and Overwhelm
-=======================================================================================
 
 In today's fast-paced world, it's easy to become overwhelmed with information and tasks. This can lead to feelings of stress and overwhelm, making it difficult to stay focused and productive. In this chapter, we will explore common challenges such as information overload and overwhelm and provide practical tips for coping with them.
 
