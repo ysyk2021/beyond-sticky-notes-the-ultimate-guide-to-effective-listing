@@ -1,5 +1,4 @@
-Chapter 6: Using Lists to Manage Time and Energy Effectively
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the art of using lists as a powerful tool for managing your time and energy efficiently. Lists are not just about jotting down tasks; they can be a dynamic strategy to prioritize, plan, and accomplish your listing goals effectively.
 

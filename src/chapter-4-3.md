@@ -1,5 +1,4 @@
-Chapter 10: Identifying Dependencies and Relationships Between Tasks
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey towards mastering effective listing, it is crucial to recognize that tasks are rarely isolated. They often interconnect, creating dependencies and relationships that can impact your workflow. In this chapter, we explore techniques for identifying and managing dependencies and relationships between tasks, enhancing your ability to plan and execute lists with precision.
 

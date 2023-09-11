@@ -1,5 +1,4 @@
-Chapter 13: Building Long-Lasting Relationships Through Collaborative Listing
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Collaboration is a cornerstone of success in both personal and professional spheres, and effective listing can significantly enhance your ability to collaborate and build enduring relationships. In this chapter, we explore how collaborative listing can strengthen connections with others, foster teamwork, and lead to lasting and meaningful partnerships.
 

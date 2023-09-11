@@ -1,5 +1,4 @@
-Chapter 10: Coping with Information Overload and Overwhelm
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll delve into strategies and techniques to help you cope with the ever-present challenges of information overload and overwhelm in the world of effective listing. As you go "beyond sticky notes," you'll inevitably encounter a flood of data and tasks, and managing them effectively is crucial for maintaining productivity and mental well-being.
 

@@ -1,5 +1,4 @@
-Chapter 11: Managing Procrastination and Distraction
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore effective strategies to combat two common productivity hurdles: procrastination and distraction. As you journey "beyond sticky notes" towards more effective listing, mastering these challenges is essential for maintaining focus and achieving your goals.
 

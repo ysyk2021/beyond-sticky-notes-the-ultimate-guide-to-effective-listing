@@ -1,5 +1,4 @@
-Chapter 9: Incorporating Flexibility into Your Listing Process
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of flexibility in your listing process. While structure and organization are essential, being adaptable and open to change can significantly enhance your effectiveness as a lister.
 

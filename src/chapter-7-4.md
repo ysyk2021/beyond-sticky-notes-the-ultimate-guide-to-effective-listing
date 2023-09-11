@@ -1,5 +1,4 @@
-Chapter 6: Dealing with Changes and Unexpected Events
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies and techniques for effectively managing changes and unexpected events when using lists to enhance your productivity and organization. Life and work are inherently unpredictable, and being prepared to adapt is essential for success.
 

@@ -1,5 +1,4 @@
-Chapter 12: The Role of Effective Listing in Productivity
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey "beyond sticky notes," understanding the profound relationship between effective listing and productivity is crucial. This chapter delves deep into why effective listing is not merely a task management tool but a linchpin in enhancing productivity and efficiency in all aspects of life and business.
 

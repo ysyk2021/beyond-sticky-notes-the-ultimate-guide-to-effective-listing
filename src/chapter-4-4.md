@@ -1,5 +1,4 @@
-Chapter 5: Using Technology to Enhance Organization
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how technology can be harnessed to supercharge your organization skills and take your listing game to the next level. From digital note-taking apps to task management tools, there's a wide array of technology solutions that can help you stay organized, productive, and efficient in your listing endeavors.
 

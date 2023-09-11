@@ -1,5 +1,4 @@
-Chapter 7: Techniques for Organizing Lists Based on Priority and Urgency
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of mastering the art of effective listing, the ability to prioritize and organize your lists is paramount. This chapter explores various techniques for organizing lists based on priority and urgency to help you stay focused, efficient, and productive.
 

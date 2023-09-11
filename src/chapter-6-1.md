@@ -1,5 +1,4 @@
-Chapter 9: The Benefits of Collaborative Listing
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective listing goes beyond individual productivity---it thrives in the realm of collaboration. In this chapter, we explore the advantages and transformative potential of collaborative listing, where teams and individuals join forces to harness the power of lists for enhanced productivity and achievement.
 

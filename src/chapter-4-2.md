@@ -1,5 +1,4 @@
-Chapter 12: Categorizing and Grouping Items on Your List
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Lists are powerful tools for organizing tasks, ideas, and information, but as they grow in complexity, maintaining clarity and focus becomes essential. In this chapter, we delve into the art of categorizing and grouping items on your list, enabling you to manage your priorities effectively and streamline your workflow.
 

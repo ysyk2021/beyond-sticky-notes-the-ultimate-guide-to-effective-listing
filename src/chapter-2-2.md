@@ -1,5 +1,4 @@
-Chapter 16: Identifying the Characteristics of a Well-Organized List
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating effective lists is not merely about jotting down tasks or ideas; it's about structuring and organizing them in a way that maximizes their utility. In this chapter, we explore the key characteristics that distinguish a well-organized list from a haphazard one. Understanding these traits will help you craft lists that are clear, actionable, and conducive to productivity.
 

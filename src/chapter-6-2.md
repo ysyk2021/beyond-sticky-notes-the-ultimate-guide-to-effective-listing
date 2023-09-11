@@ -1,5 +1,4 @@
-Chapter 6: Identifying Potential Collaborators and Networks
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to master the art of effective listing, it's not just about the lists themselves; it's also about the people and networks you engage with. This chapter explores the crucial topic of identifying potential collaborators and networks to enhance your listing skills and achieve your goals.
 

@@ -1,5 +1,4 @@
-Chapter 7: Addressing Common Challenges in Effective Listing
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges that arise in the world of effective listing and provide strategies and solutions to overcome them. Recognizing and addressing these challenges is essential for becoming a more successful and efficient lister.
 

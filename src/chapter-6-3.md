@@ -1,5 +1,4 @@
-Chapter 8: Techniques for Effective Collaboration and Networking
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Mastering the art of effective listing not only involves creating well-organized lists but also leveraging the power of collaboration and networking. In this chapter, we delve into techniques for fostering productive collaboration and building valuable networks to enhance your listing endeavors.
 

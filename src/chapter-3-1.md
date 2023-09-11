@@ -1,5 +1,4 @@
-Chapter 7: Recognizing the Different Types of Listing Formats
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the diverse world of listing formats, exploring various ways to structure and organize your tasks, projects, and goals. Recognizing and understanding these formats is crucial for tailoring your lists to specific needs and optimizing your productivity.
 

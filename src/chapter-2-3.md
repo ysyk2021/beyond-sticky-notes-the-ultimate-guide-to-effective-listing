@@ -1,5 +1,4 @@
-Chapter 15: Developing Self-Awareness as a List-Maker
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective listing is not just about creating lists; it's also about understanding yourself as a list-maker. Developing self-awareness in this context involves recognizing your strengths, weaknesses, habits, and preferences when it comes to list-making. In this chapter, we explore the importance of self-awareness in improving your listing skills and achieving greater productivity and organization.
 
